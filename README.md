@@ -1,7 +1,7 @@
 # OOP Activity 8: static - final - inner class
 
 ## Reference Links
-* [Reading Material](https://sites.google.com/view/uic-sy1718-oop-se/home)
+* [Reading Material](https://drive.google.com/file/d/0By-aduulSKAMajVDeWlwbzh0Mkk/view)
 
 ### Task 1
 * Create new project: Lastname_071017_act8
