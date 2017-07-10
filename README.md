@@ -10,3 +10,5 @@
   * OuterClass.java
   * InnerClass.java
   * Task1Demo.java
+* Debug and update the necessary java files in order to display the same as the output given:
+  ![Task1](https://github.com/clydeatuic/oop-act8-static_final_innerclass/blob/master/task1.png)
