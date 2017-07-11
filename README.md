@@ -17,7 +17,7 @@ C | superclass | c: double | Accessor and Mutators
 D | D is a subclass of A | d: int (static), e: int (final) | Accessor and Mutators
 
 5. Create a Task1Demo class that looks like the screenshot below.
-	![Task1](https://github.com/clydeatuic/oop-act8-static_final_innerclass/blob/master/task1.png)
+	![Task1](https://github.com/clydeatuic/oop-act8-static_final_innerclass/blob/master/task1.PNG)
 
 ### Task 2
 
